@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Open Store</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About OpenStore</string>
+    <string name="exit">exit</string>
+    <string name="app_about_message">Open Store는 현재위치를 기반으로 주변 가게들의 운영상태를 시각적으로 보여주는 어플입니다.</string>
+    <string name="str_ok">OK</string>
+    <string name="app_exit_message">exit</string>
+    <string name="str_no">NO</string>
+    <string name="share">Share</string>
+</resources>
